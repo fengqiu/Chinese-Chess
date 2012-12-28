@@ -18,6 +18,9 @@
 {
     [super viewDidLoad];
     NSLog(@"superman is here don't worry kids he'll fuck y'll!");
+    int i;
+    i=5;
+    NSLog(@"%i", i);
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
